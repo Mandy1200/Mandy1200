@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a cool food website
 - 🌱 I’m currently learning bootstrap , Java and ReactJs
 - ⚡ Fun fact: I Can Reverse The Dormacy Of Dead Code
 
