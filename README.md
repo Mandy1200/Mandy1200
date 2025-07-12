@@ -110,13 +110,8 @@ Open to innovative collaborations and opportunities that shape the future of tec
 ## Projects Working On
 
 ### 😴 Sleep Index Project  
->  Predicting Cognitive Burnout Risk in Students Using Lifestyle Patterns
-    > Project Objective
-      > Build a predictive ML model to estimate the risk of long-term mental fatigue (cognitive burnout) among students, based on:
-           - Sleep patterns
-           - Device/screen usage
-           - Class load
-           - Stress & emotional indicators
+    
+  > Will Update in a detailed way in the future
 ---
 ## 🏆 Achievements
 
@@ -147,10 +142,11 @@ Open to innovative collaborations and opportunities that shape the future of tec
 ## 💼 Open to
 
 - Research internships in AI/ML, GenAI, and LLMs (Remote or In-Person)
-- Freelance Dev roles, especially in AI-driven web apps or IoT-integrated systems
-- Collaborations on smart tech projects (e.g., IntelliDrive, Sleep Index, Park N Go)
-- Speaking / Workshops at tech clubs on topics like Local LLMs with Ollama, Smart Parking Systems, or AI + Edge Computing
 - Contributing to open-source tools in ML, FrontEnd 
+- Freelance Dev roles, especially in AI-driven web apps 
+- Collaborations on smart tech projects (e.g., IntelliDrive, Sleep Index)
+- Speaking / Workshops at tech clubs on topics like Local LLMs with Ollama, Smart Parking Systems, or AI + Edge Computing
+
 
 ## 📫 Connect with Me
 
