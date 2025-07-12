@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Mandy1200/Mandy1200/blob/2873dcfa477a50e5c2a18a0924808ce2c4e94a47/Github_Banner.jpg?raw=true" width="250%" height="450%" />
+</p>
 <h1 align="center">Namaskar🙏🏻 , Mandeep Ray</h1>
 
 <p align="center">
