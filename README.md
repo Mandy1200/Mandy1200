@@ -58,9 +58,9 @@ Open to innovative collaborations and opportunities that shape the future of tec
 
 ## 🧭 My Journey
 
-- **2022**: Started B.Tech at ITER, SOA University, Bhubaneswar  
-- **2023**: Built _SilentSpeak_, an AI-powered haptic communication device  
-- **2024**: Created _SmartBloom_, a smart parking ecosystem  
+- **2023**: Started B.Tech at ITER, SOA University, Bhubaneswar  
+- **2024**: Built _SilentSpeak_, an AI-powered haptic communication device  
+- **2025**: Created _SmartBloom_, a smart parking ecosystem  
 
 ## 🧭 Future Projects
 
