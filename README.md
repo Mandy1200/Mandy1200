@@ -43,15 +43,6 @@ Currently focused on:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandy1200&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="48%" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="48%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mandy1200&theme=algolia&no-frame=true&margin-w=8&margin-h=5" alt="GitHub Trophy" />
 </p>
 
 ---
