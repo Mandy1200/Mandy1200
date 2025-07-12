@@ -33,6 +33,37 @@ Currently focused on:
 
 ---
 
+<h2 align="center">📊 GitHub Stats & Insights</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mandy1200&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Mandy1200&theme=radical&hide_border=true&border_radius=12" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandy1200&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="48%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mandy1200&theme=algolia&no-frame=true&margin-w=8&margin-h=5" alt="GitHub Trophy" />
+</p>
+
+---
+
+### 🗂️ Recent GitHub Activity
+
+<!-- GitHub activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mandy1200&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
 ## 🧭 My Journey
 
 - **2022**: Started B.Tech at ITER, SOA University, Bhubaneswar  
@@ -95,15 +126,54 @@ Currently focused on:
            - Class load
            - Stress & emotional indicators
 ---
+## 🏆 Achievements
 
+  ### Silent Speak got selected for the AWS credit program from PITCH ‘n’ WIN in IIT BBSR . 
+
+  ### The SmartBloom aced in 
+       > IIIT D3 Fest BBSR
+       > Silicon SparkUp Summit
+       > Silicon Techtronics 2024
+       > Utkarsh 2024 by StartUp Odisha
+       > MSME IDEA Hackathon 4.0
+        
+  ### The CodeZen aced in
+       > IIIT BBSR Invento Expo Advaita 
+       > ELYSIUM 2025 KODLAMA (Ai Hackathon)  
+
+## 🎯 Fun Facts
+
+- Built my own VS Code-style online code editor, just because I didn’t want to open VS Code 😅
+- Firebase and I are in a complicated relationship—still figuring it out ❤️‍🔥
+- I once used PCA to reduce my sleep schedule to "work and regret" ⏰🧠
+- I once ran Ubuntu inside a virtual machine… inside another VM—just to see if I could. Inception, but make it Linux 🧠🐧
+- I believe debugging at 2 AM builds more character than any motivational book 🌚
+- I contribute to open-source because nothing says love like a perfectly indented pull request 💚📂
+- Currently building my own local ChatGPT with Ollama 🤖
+- I prefer dark mode, Linux terminals, and cold brew ☕
+
+## 💼 Open to
+
+- Research internships in AI/ML, GenAI, and LLMs (Remote or In-Person)
+- Freelance Dev roles, especially in AI-driven web apps or IoT-integrated systems
+- Collaborations on smart tech projects (e.g., IntelliDrive, Sleep Index, Park N Go)
+- Speaking / Workshops at tech clubs on topics like Local LLMs with Ollama, Smart Parking Systems, or AI + Edge Computing
+- Contributing to open-source tools in ML, FrontEnd 
 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mandeep-ray-b5535627b/">LinkedIn</a> •
-  <a href="https://github.com/Mandy1200">GitHub</a> •
-  <a href="mailto:mandeepray05@gmail.com">Email</a> 
+  <a href="https://www.linkedin.com/in/mandeep-ray-b5535627b/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Mandy1200">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:mandeepray05@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
+
 
 ---
 
