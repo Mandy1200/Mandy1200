@@ -128,16 +128,7 @@ Open to innovative collaborations and opportunities that shape the future of tec
        > IIIT BBSR Invento Expo Advaita 
        > ELYSIUM 2025 KODLAMA (Ai Hackathon)  
 
-## 🎯 Fun Facts
-
-- Built my own VS Code-style online code editor, just because I didn’t want to open VS Code 😅
-- Firebase and I are in a complicated relationship—still figuring it out ❤️‍🔥
-- I once used PCA to reduce my sleep schedule to "work and regret" ⏰🧠
-- I once ran Ubuntu inside a virtual machine… inside another VM—just to see if I could. Inception, but make it Linux 🧠🐧
-- I believe debugging at 2 AM builds more character than any motivational book 🌚
-- I contribute to open-source because nothing says love like a perfectly indented pull request 💚📂
-- Currently building my own local ChatGPT with Ollama 🤖
-- I prefer dark mode, Linux terminals, and cold brew ☕
+---
 
 ## 💼 Open to
 
@@ -145,8 +136,9 @@ Open to innovative collaborations and opportunities that shape the future of tec
 - Contributing to open-source tools in ML, FrontEnd 
 - Freelance Dev roles, especially in AI-driven web apps 
 - Collaborations on smart tech projects (e.g., IntelliDrive, Sleep Index)
-- Speaking / Workshops at tech clubs on topics like Local LLMs with Ollama, Smart Parking Systems, or AI + Edge Computing
+- Speaking / Workshops at tech clubs on topics like Local LLMs with Ollama, Smart Parking Systems, or AI + Edge 
 
+---
 
 ## 📫 Connect with Me
 
@@ -162,6 +154,18 @@ Open to innovative collaborations and opportunities that shape the future of tec
   </a>
 </p>
 
+---
+
+## 🎯 Fun Facts
+
+- Built my own VS Code-style online code editor, just because I didn’t want to open VS Code 😅
+- Firebase and I are in a complicated relationship—still figuring it out ❤️‍🔥
+- I once used PCA to reduce my sleep schedule to "work and regret" ⏰🧠
+- I once ran Ubuntu inside a virtual machine… inside another VM—just to see if I could. Inception, but make it Linux 🧠🐧
+- I believe debugging at 2 AM builds more character than any motivational book 🌚
+- I contribute to open-source because nothing says love like a perfectly indented pull request 💚📂
+- Currently building my own local ChatGPT with Ollama 🤖
+- I prefer dark mode, Linux terminals, and cold brew ☕
 
 ---
 
