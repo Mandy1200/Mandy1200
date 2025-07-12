@@ -1,5 +1,5 @@
 
-<h1 align="center">Namaskar🙏🏻 , Mandeep Ray</h1>
+<h1 align="center">Namaskar, Mandeep Ray</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Focused-%2361dafb?style=flat&logo=react&logoColor=black" />
@@ -14,7 +14,7 @@
 
 ---
 
-## 📜 About Me
+## -> About Me
 
 Skilled in the MERN stack (MongoDB, Express.js, React.js, Node.js) and EmbeddedJS (EJS) for building scalable, dynamic web applications. Proficient in Power BI for delivering actionable data visualizations and insights. 📊
 
@@ -24,7 +24,9 @@ Currently diving deep into Generative AI, including LangGraph, LangChain, and RA
 
 Open to innovative collaborations and opportunities that shape the future of tech. 🚀
 
-## Currently focused on:
+--
+
+## -> Currently focused on:
 -  AI/ML & LLMs (Primary Focus)
 -  Machine Learning Fundamentals
 -  Generative AI Tools & Deployment
@@ -34,7 +36,7 @@ Open to innovative collaborations and opportunities that shape the future of tec
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Insights</h2>
+<h2 align="center"> GitHub Stats & Insights</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mandy1200&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
@@ -47,7 +49,7 @@ Open to innovative collaborations and opportunities that shape the future of tec
 
 ---
 
-### 🗂️ Recent GitHub Activity
+###  Recent GitHub Activity
 
 <!-- GitHub activity graph -->
 <p align="center">
@@ -56,19 +58,19 @@ Open to innovative collaborations and opportunities that shape the future of tec
 
 ---
 
-## 🧭 My Journey
+## -> My Journey
 
 - **2023**: Started B.Tech at ITER, SOA University, Bhubaneswar  
 - **2024**: Built _SilentSpeak_, an AI-powered haptic communication device  
 - **2025**: Created _SmartBloom_, a smart parking ecosystem  
 
-## 🧭 Future Projects
+## -> Future Projects
 
 - **2025**: Researched ML-based sleep patterns in the _Sleep Index Project_
 
 ---
 
-## 🛠️ Tech Stack
+## -> Tech Stack
 
 | Domain          | Tools / Tech                                                  |
 |--------------   |---------------------------------------------------------------|
@@ -79,7 +81,7 @@ Open to innovative collaborations and opportunities that shape the future of tec
 | **Dev Tools**   | Figma, Power BI, Git                                          |
 | **Scripting**   | Ubuntu (Linux), Bash Scripting (Vim), Networking Basics       | 
 
-## 🛠️ Learning Tech Stack
+## -> Learning Tech Stack
 
 **Machine Learning & AI:**
 
@@ -95,25 +97,25 @@ Open to innovative collaborations and opportunities that shape the future of tec
 
 ---
 
-## 🚀 Featured Projects
+## -> Featured Projects
 
-### 🧠 SilentSpeak  
+###  SilentSpeak  
 > AI-driven assistive device using Morse code + haptics for non-verbal communication. Features multilingual output and emergency safety.
 
-### 🅿️ SmartBloom  
+###  SmartBloom  
 > Multi-level smart parking system using IoT sensors. Predicts parking duration and allocates floors based on dynamic usage.
 
-### 💻 CodeZen  
+###  CodeZen  
 > Real-time collaborative coding platform with AI assistants, live previews, and team workflows. Built for project-based learning & hackathons.
 
 
 ## Projects Working On
 
-### 😴 Sleep Index Project  
+###  Sleep Index Project  
     
   > Will Update in a detailed way in the future
 ---
-## 🏆 Achievements
+## -> Achievements
 
   ### Silent Speak got selected for the AWS credit program from PITCH ‘n’ WIN in IIT BBSR . 
 
@@ -130,7 +132,7 @@ Open to innovative collaborations and opportunities that shape the future of tec
 
 ---
 
-## 💼 Open to
+## -> Open to
 
 - Research internships in AI/ML, GenAI, and LLMs (Remote or In-Person)
 - Contributing to open-source tools in ML, FrontEnd 
@@ -140,7 +142,7 @@ Open to innovative collaborations and opportunities that shape the future of tec
 
 ---
 
-## 📫 Connect with Me
+## -> Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mandeep-ray-b5535627b/">
@@ -156,7 +158,7 @@ Open to innovative collaborations and opportunities that shape the future of tec
 
 ---
 
-## 🎯 Fun Facts
+## -> Fun Facts
 
 - Built my own VS Code-style online code editor, just because I didn’t want to open VS Code 😅
 - Firebase and I are in a complicated relationship—still figuring it out ❤️‍🔥
