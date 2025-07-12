@@ -16,13 +16,13 @@
 
 ## -> About Me
 
-Skilled in the MERN stack (MongoDB, Express.js, React.js, Node.js) and EmbeddedJS (EJS) for building scalable, dynamic web applications. Proficient in Power BI for delivering actionable data visualizations and insights. 📊
+Skilled in the MERN stack (MongoDB, Express.js, React.js, Node.js) and EmbeddedJS (EJS) for building scalable, dynamic web applications. Proficient in Power BI for delivering actionable data visualizations and insights. 
 
-Recursively stacking Data Structures and Algorithms using Java in the heap memory of the mind 👨‍💻.
+Recursively stacking Data Structures and Algorithms using Java in the heap memory of the mind.
 
 Currently diving deep into Generative AI, including LangGraph, LangChain, and RAG workflows to architect intelligent, agent-based systems and multimodal applications.
 
-Open to innovative collaborations and opportunities that shape the future of tech. 🚀
+Open to innovative collaborations and opportunities that shape the future of tech. 
 
 --
 
@@ -103,7 +103,7 @@ Open to innovative collaborations and opportunities that shape the future of tec
 > AI-driven assistive device using Morse code + haptics for non-verbal communication. Features multilingual output and emergency safety.
 
 ###  SmartBloom  
-> Multi-level smart parking system using IoT sensors. Predicts parking duration and allocates floors based on dynamic usage.
+>Revolutionizing Pollination for Vertical Farming Using IoT & Robotics
 
 ###  CodeZen  
 > Real-time collaborative coding platform with AI assistants, live previews, and team workflows. Built for project-based learning & hackathons.
@@ -114,7 +114,9 @@ Open to innovative collaborations and opportunities that shape the future of tec
 ###  Sleep Index Project  
     
   > Will Update in a detailed way in the future
+
 ---
+
 ## -> Achievements
 
   ### Silent Speak got selected for the AWS credit program from PITCH ‘n’ WIN in IIT BBSR . 
