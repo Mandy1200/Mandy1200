@@ -24,7 +24,7 @@ Currently diving deep into Generative AI, including LangGraph, LangChain, and RA
 
 Open to innovative collaborations and opportunities that shape the future of tech. 
 
---
+---
 
 ## -> Currently focused on:
 -  AI/ML & LLMs (Primary Focus)
