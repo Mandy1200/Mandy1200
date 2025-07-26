@@ -39,34 +39,9 @@ Open to innovative collaborations and opportunities that shape the future of tec
 <h2 align="center"> GitHub Stats & Insights</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mandy1200&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandy1200&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Mandy1200&theme=radical&hide_border=true&border_radius=12" width="48%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandy1200&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="48%" />
-</p>
-
----
-
-###  Recent GitHub Activity
-
-<!-- GitHub activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mandy1200&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-## -> My Journey
-
-- **2023**: Started B.Tech at ITER, SOA University, Bhubaneswar  
-- **2024**: Built _SilentSpeak_, an AI-powered haptic communication device  
-- **2025**: Created _SmartBloom_, a smart parking ecosystem  
-
-## -> Future Projects
-
-- **2025**: Researched ML-based sleep patterns in the _Sleep Index Project_
 
 ---
 
@@ -75,8 +50,8 @@ Open to innovative collaborations and opportunities that shape the future of tec
 | Domain          | Tools / Tech                                                  |
 |--------------   |---------------------------------------------------------------|
 |**Prog. Langs.**:| Java, Python                                                  |
-| **Frontend**    | HTML, CSS, Tailwind, JavaScript, React                        |
-| **Backend**     | Node.js, Express, Spring Boot                                 |
+| **Frontend**    | HTML, CSS, Tailwind, JavaScript, ReactJs                        |
+| **Backend**     | Node.js, Express                                |
 | **Databases**   | MySQL, MongoDB                                                |
 | **Dev Tools**   | Figma, Power BI, Git                                          |
 | **Scripting**   | Ubuntu (Linux), Bash Scripting (Vim), Networking Basics       | 
@@ -100,14 +75,25 @@ Open to innovative collaborations and opportunities that shape the future of tec
 ## -> Featured Projects
 
 ###  SilentSpeak  
-> AI-driven assistive device using Morse code + haptics for non-verbal communication. Features multilingual output and emergency safety.
+> AI-driven assistive device using Morse code + haptics for non-verbal communication. Features multilingual output and emergency safety. Silent Speak enables users to convey messages through Morse code, offering a voice to those who may not have one in traditional communication settings.
+
+website link : https://silent-speaks.netlify.app/
 
 ###  SmartBloom  
->Revolutionizing Pollination for Vertical Farming Using IoT & Robotics
+>SmartBloom doesn't rely on any existing intellectual property but rather builds on established principles in robotics, machine learning, and agriculture. The project uses open-source platforms like Arduino and Edge Impulse to develop a custom system that automates the cross-pollination process. By combining software and hardware components in a unique way, SmartBloom brings a fresh approach to agricultural automation
+
+website link : https://www.smartbloom.in/
 
 ###  CodeZen  
 > Real-time collaborative coding platform with AI assistants, live previews, and team workflows. Built for project-based learning & hackathons.
 
+website link : https://codezens.vercel.app/
+
+### Neurohire
+>A modular, NLP-powered AI application for resume screening, job matching, and visual feedback. Built using Streamlit, FAISS, and BERT embeddings with advanced resume parsing, scoring intelligence, and personalized recommendations.
+NeuroHire transforms the traditional hiring process with deep semantic insights, resume red-flag detection, and a visually guided recruitment dashboard. Recruit smarter, faster, and fairer — powered by real-time machine learning.
+
+website link : https://airecruiterapp.streamlit.app/
 
 ## Projects Working On
 
