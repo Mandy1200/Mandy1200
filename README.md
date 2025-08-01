@@ -60,15 +60,13 @@ Open to innovative collaborations and opportunities that shape the future of tec
 
 **Machine Learning & AI:**
 
-- PyTorch (Basics, LoRA Fine-tuning, Transfer Learning)
+ - ML Pipelines & Interpretability (scikit-learn, SHAP, feature engineering)
 
-- Open-source LLMs (LLaMA, Gemma, Mistral using Ollama)
+ - Data Apps with Streamlit, Plotly & SHAP for Real-time Wellbeing Insights
 
-- Prompt Engineering, Quantization (8-bit, 4-bit using BitsAndBytes)
+ - GenAI Tools (LangChain basics, RAG intro, LLM inference)
 
-- GenAI Tools (LangChain basics, RAG intro, LLM inference)
-
-- Model Deployment (Local LLMs, lightweight inference with Ollama)
+ - Model Deployment (Local LLMs, lightweight inference with Ollama)
 
 ---
 
@@ -95,13 +93,17 @@ NeuroHire transforms the traditional hiring process with deep semantic insights,
 
 website link : https://airecruiterapp.streamlit.app/
 
-## Projects Working On
+###  WellNess Pedictor
+>Lifestyle Wellness & Burnout Predictor is an AI-powered platform that translates lifestyle habits into meaningful insights on burnout, stress, and overall wellbeing.
+Using data such as sleep, activity, mood, and screen time, it delivers personalized health scores and actionable recommendations.
+The app features explainable AI, trend forecasting, and anonymous peer comparisons to help users understand and optimize their routines.
+Designed for clarity and empathy, it empowers individuals to take mindful control of their health — one habit at a time.
 
-###  Sleep Index Project  
-    
-  > Will Update in a detailed way in the future
+ website link : https://huggingface.co/spaces/CoderMandy/WellNessPrediction
 
-  website link : https://huggingface.co/spaces/CoderMandy/WellNessPrediction
+ ## Projects Working On
+
+ > MAP Predictor
 ---
 
 ## -> Achievements
