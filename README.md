@@ -101,6 +101,7 @@ website link : https://airecruiterapp.streamlit.app/
     
   > Will Update in a detailed way in the future
 
+  website link : https://huggingface.co/spaces/CoderMandy/WellNessPrediction
 ---
 
 ## -> Achievements
