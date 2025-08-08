@@ -16,6 +16,8 @@
 
 ## -> About Me
 
+My Website : https://mandeepportfolio.vercel.app/
+
 Skilled in the MERN stack (MongoDB, Express.js, React.js, Node.js) and EmbeddedJS (EJS) for building scalable, dynamic web applications. Proficient in Power BI for delivering actionable data visualizations and insights. 
 
 Recursively stacking Data Structures and Algorithms using Java in the heap memory of the mind.
@@ -142,7 +144,7 @@ Designed for clarity and empathy, it empowers individuals to take mindful contro
   <a href="https://github.com/Mandy1200">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:mandeepray05@gmail.com">
+  <a href="mailto:example5@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
