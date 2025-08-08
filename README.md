@@ -1,5 +1,5 @@
 
-<h1 align="center">Namaskar, Mandeep Ray</h1>
+<h1 align="center">Mandeep Ray</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Focused-%2361dafb?style=flat&logo=react&logoColor=black" />
