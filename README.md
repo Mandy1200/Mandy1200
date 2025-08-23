@@ -95,6 +95,8 @@ NeuroHire transforms the traditional hiring process with deep semantic insights,
 
 website link : https://airecruiterapp.streamlit.app/
 
+Project Demo : https://drive.google.com/file/d/1QeUEy11Vc5pz5S0pxBTPoY32Ref8BCo2/view?usp=sharing
+
 ###  WellNess Pedictor
 >Lifestyle Wellness & Burnout Predictor is an AI-powered platform that translates lifestyle habits into meaningful insights on burnout, stress, and overall wellbeing.
 Using data such as sleep, activity, mood, and screen time, it delivers personalized health scores and actionable recommendations.
