@@ -84,6 +84,8 @@ website link : https://silent-speaks.netlify.app/
 
 website link : https://www.smartbloom.in/
 
+Project Demo : https://drive.google.com/file/d/1V7WFyE7MrIIydIWNiFPmf09DVzyNkLeV/view?usp=sharing
+
 ###  CodeZen  
 > Real-time collaborative coding platform with AI assistants, live previews, and team workflows. Built for project-based learning & hackathons.
 
