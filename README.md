@@ -95,19 +95,18 @@ NeuroHire transforms the traditional hiring process with deep semantic insights,
 
 website link : https://airecruiterapp.streamlit.app/
 
-Project Demo : https://drive.google.com/file/d/1QeUEy11Vc5pz5S0pxBTPoY32Ref8BCo2/view?usp=sharing
+Project Demo : https://drive.google.com/file/d/1fUyFEpyaUV-0_jNrH8iwpqu49uVSiVjE/view?usp=sharing
 
-###  WellNess Pedictor
+###  Claravita
 >Lifestyle Wellness & Burnout Predictor is an AI-powered platform that translates lifestyle habits into meaningful insights on burnout, stress, and overall wellbeing.
 Using data such as sleep, activity, mood, and screen time, it delivers personalized health scores and actionable recommendations.
 The app features explainable AI, trend forecasting, and anonymous peer comparisons to help users understand and optimize their routines.
 Designed for clarity and empathy, it empowers individuals to take mindful control of their health — one habit at a time.
 
- website link : https://huggingface.co/spaces/CoderMandy/WellNessPrediction
+ website link : https://wellnesspredictor.streamlit.app/
+ 
+ Demo link : https://drive.google.com/file/d/1EQ9oInLqA_UwrnioxuD4o7bATXx5-ZnG/view?usp=sharing
 
- ## Projects Working On
-
- > MAP Predictor
 ---
 
 ## -> Achievements
