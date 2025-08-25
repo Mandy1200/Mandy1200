@@ -18,13 +18,14 @@
 
 My Website : https://mandeepportfolio.vercel.app/
 
-Skilled in the MERN stack (MongoDB, Express.js, React.js, Node.js) and EmbeddedJS (EJS) for building scalable, dynamic web applications. Proficient in Power BI for delivering actionable data visualizations and insights. 
+Adept in Java and Python, while styling the digital canvas with HTML, CSS, Tailwind,Bootstrap and JavaScript. Databases like MySQL and MongoDB serve as the memory banks, while Figma and Power BI transform raw data into meaningful, visual stories. Skilled in shaping seamless digital experiences with Next.js and Tailwind CSS, blending performance with design to build fast, elegant, and scalable web applications.
 
-Recursively stacking Data Structures and Algorithms using Java in the heap memory of the mind.
+Recursively stacking Data Structures and Algorithms in Java within the heap memory of the mind, ever ready for collaborations that spark innovation and shape the future of tech.
 
-Currently diving deep into Generative AI, including LangGraph, LangChain, and RAG workflows to architect intelligent, agent-based systems and multimodal applications.
+Comfortable navigating the Ubuntu terminal, scripting in Bash, and versioning with Git, with networking basics forming the threads beneath it all. At the same time, exploring the landscapes of machine learning—building pipelines, interpreting models with scikit-learn and SHAP, and shaping data into interactive apps with Streamlit and Plotly.
 
-Open to innovative collaborations and opportunities that shape the future of tech. 
+Now venturing into the frontier of Generative AI—experimenting with LangChain, LangGraph, and RAG workflows—to architect intelligent, agent-based systems and multimodal applications. Learning to deploy models lightly and locally with Ollama, while keeping curiosity as the ultimate framework.
+
 
 ---
 
