@@ -111,6 +111,11 @@ Designed for clarity and empathy, it empowers individuals to take mindful contro
 
 ---
 
+## Working on : 
+### Circulens is a lightweight, AI-driven assistant that simplifies this process by , This tool brings clarity, speed, and compliance confidence into daily operations.
+
+---
+
 ## -> Achievements
 
   ### Silent Speak got selected for the AWS credit program from PITCH ‘n’ WIN in IIT BBSR . 
