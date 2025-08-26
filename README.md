@@ -13,7 +13,7 @@
 
 
 ---
-  <a align="center" href="https://mandeepportfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a align="center" href="https://mandeepportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" style="height:40px;">
   </a>
 
