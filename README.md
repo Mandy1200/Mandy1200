@@ -13,11 +13,14 @@
 
 
 ---
+  <a align="center" href="https://mandeepportfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" style="height:40px;">
+  </a>
 
+---
+  
+  
 ## -> About Me
-
-My Website : https://mandeepportfolio.vercel.app/
-
 Adept in Java and Python, while styling the digital canvas with HTML, CSS, Tailwind,Bootstrap and JavaScript. Databases like MySQL and MongoDB serve as the memory banks, while Figma and Power BI transform raw data into meaningful, visual stories. Skilled in shaping seamless digital experiences with Next.js and Tailwind CSS, blending performance with design to build fast, elegant, and scalable web applications.
 
 Recursively stacking Data Structures and Algorithms in Java within the heap memory of the mind, ever ready for collaborations that spark innovation and shape the future of tech.
@@ -25,7 +28,6 @@ Recursively stacking Data Structures and Algorithms in Java within the heap memo
 Comfortable navigating the Ubuntu terminal, scripting in Bash, and versioning with Git, with networking basics forming the threads beneath it all. At the same time, exploring the landscapes of machine learning—building pipelines, interpreting models with scikit-learn and SHAP, and shaping data into interactive apps with Streamlit and Plotly.
 
 Now venturing into the frontier of Generative AI—experimenting with LangChain, LangGraph, and RAG workflows—to architect intelligent, agent-based systems and multimodal applications. Learning to deploy models lightly and locally with Ollama, while keeping curiosity as the ultimate framework.
-
 
 ---
 
@@ -161,19 +163,19 @@ Designed for clarity and empathy, it empowers individuals to take mindful contro
 ## -> Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mandeep-ray-b5535627b/">
+  <a href="https://www.linkedin.com/in/mandeep-ray-b5535627b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/Mandy1200">
+  <a href="https://github.com/Mandy1200" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:example5@gmail.com">
+  <a href="mailto:example5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://leetcode.com/mandeepray05/">
+  <a href="https://leetcode.com/mandeepray05/" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode">
 </a>
-<a href="https://auth.geeksforgeeks.org/user/mandeepnwrx/">
+<a href="https://auth.geeksforgeeks.org/user/mandeepnwrx/" target="_blank">
   <img src="https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat-square&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks">
 </a>
 
