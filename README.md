@@ -78,25 +78,39 @@ Now venturing into the frontier of Generative AI—experimenting with LangChain,
 ###  SilentSpeak  
 > AI-driven assistive device using Morse code + haptics for non-verbal communication. Features multilingual output and emergency safety. Silent Speak enables users to convey messages through Morse code, offering a voice to those who may not have one in traditional communication settings.
 
-website link : https://silent-speaks.netlify.app/
+Website link : https://silent-speaks.netlify.app/
+
+Project Demo : https://drive.google.com/file/d/1wq6qSjO54d20EM_EO7LFaKoE7DCLq-8m/view?usp=sharing
+
+Hardware Prototype : https://drive.google.com/drive/folders/1xIo-xec45Yk229lBiehEgcKHHQYUqnIA?usp=sharing
+
+GithubRepo : https://github.com/Mandy1200/silentspeak2.0
+
 
 ###  SmartBloom  
 >SmartBloom doesn't rely on any existing intellectual property but rather builds on established principles in robotics, machine learning, and agriculture. The project uses open-source platforms like Arduino and Edge Impulse to develop a custom system that automates the cross-pollination process. By combining software and hardware components in a unique way, SmartBloom brings a fresh approach to agricultural automation
 
-website link : https://www.smartbloom.in/
+Website link : https://www.smartbloom.in/
 
 Project Demo : https://drive.google.com/file/d/1V7WFyE7MrIIydIWNiFPmf09DVzyNkLeV/view?usp=sharing
+
+Hardware Prototype : https://drive.google.com/drive/folders/1KyKUQGGA0IdIUwgPIgUB0rZPZSh-o674?usp=sharing
+
+GithubRepo : https://github.com/Mandy1200/SmartBloom
 
 ###  CodeZen  
 > Real-time collaborative coding platform with AI assistants, live previews, and team workflows. Built for project-based learning & hackathons.
 
 website link : https://codezens.vercel.app/
 
+Project Demo : https://drive.google.com/file/d/1yNA6DLjq4LI18qtK6LMFCmdzCEvoSwaN/view?usp=sharing 
+  > Demo for AI Resume Analyser is below
+
 ### Neurohire
 >A modular, NLP-powered AI application for resume screening, job matching, and visual feedback. Built using Streamlit, FAISS, and BERT embeddings with advanced resume parsing, scoring intelligence, and personalized recommendations.
 NeuroHire transforms the traditional hiring process with deep semantic insights, resume red-flag detection, and a visually guided recruitment dashboard. Recruit smarter, faster, and fairer — powered by real-time machine learning.
 
-website link : https://airecruiterapp.streamlit.app/
+Website link : https://airecruiterapp.streamlit.app/
 
 Project Demo : https://drive.google.com/file/d/1fUyFEpyaUV-0_jNrH8iwpqu49uVSiVjE/view?usp=sharing
 
@@ -106,7 +120,7 @@ Using data such as sleep, activity, mood, and screen time, it delivers personali
 The app features explainable AI, trend forecasting, and anonymous peer comparisons to help users understand and optimize their routines.
 Designed for clarity and empathy, it empowers individuals to take mindful control of their health — one habit at a time.
 
- website link : https://wellnesspredictor.streamlit.app/
+ Website link : https://wellnesspredictor.streamlit.app/
  
  Demo link : https://drive.google.com/file/d/1EQ9oInLqA_UwrnioxuD4o7bATXx5-ZnG/view?usp=sharing
 
@@ -156,6 +170,13 @@ Designed for clarity and empathy, it empowers individuals to take mindful contro
   <a href="mailto:example5@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://leetcode.com/mandeepray05/">
+  <img src="https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode">
+</a>
+<a href="https://auth.geeksforgeeks.org/user/mandeepnwrx/">
+  <img src="https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat-square&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks">
+</a>
+
 </p>
 
 ---
