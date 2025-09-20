@@ -116,6 +116,9 @@ Website link : https://airecruiterapp.streamlit.app/
 
 Project Demo : https://drive.google.com/file/d/1fUyFEpyaUV-0_jNrH8iwpqu49uVSiVjE/view?usp=sharing
 
+ GithubRepo : https://github.com/Mandy1200/NeuroHire
+
+
 ###  Claravita
 >Lifestyle Wellness & Burnout Predictor is an AI-powered platform that translates lifestyle habits into meaningful insights on burnout, stress, and overall wellbeing.
 Using data such as sleep, activity, mood, and screen time, it delivers personalized health scores and actionable recommendations.
@@ -126,10 +129,28 @@ Designed for clarity and empathy, it empowers individuals to take mindful contro
  
  Demo link : https://drive.google.com/file/d/1EQ9oInLqA_UwrnioxuD4o7bATXx5-ZnG/view?usp=sharing
 
+ GithubRepo : https://github.com/Mandy1200/Claravita
+
+
+###  Swift Relief
+>Drone system to deliver medical supplies & communication devices in disaster-hit inaccessible areas. Uses auto real-time navigation using gps& obstacle avoidance. Integrated website for disaster management teams to coordinate deliveries
+
+> Life-Saving Response: Enables critical medical delivery within golden hours.
+> Accessible Anywhere: Operates in floods, landslides, earthquakes, and remote terrains.
+> Faster Disaster Relief: Cuts response time by 20–30% compared to ground logistics.
+> National Disaster Management Support: Scalable to NDMA & state agencies.
+
+
+Website link (Demo) : https://drive.google.com/file/d/1XpAXIpqPRXEEkD6LdGJiPgZuMMRt0PRZ/view?usp=sharing
+ 
+ Demo link : https://drive.google.com/file/d/1Oavy_uy2UIaMVtRHGNZVskKaXbFgdWZ8/view?usp=sharing
+
+ Proposal PDF : https://drive.google.com/file/d/1nFmM5Ji9I0xlqyLrNX64mx6ywZEhRpeV/view?usp=sharing
+
+
 ---
 
 ## Working on : 
-### Circulens is a lightweight, AI-driven assistant that simplifies this process by , This tool brings clarity, speed, and compliance confidence into daily operations.
 
 ---
 
