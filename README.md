@@ -141,9 +141,11 @@ Designed for clarity and empathy, it empowers individuals to take mindful contro
 > National Disaster Management Support: Scalable to NDMA & state agencies.
 
 
-Website link (Demo) : https://drive.google.com/file/d/1XpAXIpqPRXEEkD6LdGJiPgZuMMRt0PRZ/view?usp=sharing
+ Website link (Demo) : https://drive.google.com/file/d/1XpAXIpqPRXEEkD6LdGJiPgZuMMRt0PRZ/view?usp=sharing
  
- Demo link : https://drive.google.com/file/d/1Oavy_uy2UIaMVtRHGNZVskKaXbFgdWZ8/view?usp=sharing
+ Demo link 1 : https://drive.google.com/file/d/1xTaSlHYdTSghmXeoqn8IEBQdCkk1jbAn/view?usp=sharing
+ 
+ Demo link 2 : https://drive.google.com/file/d/1Oavy_uy2UIaMVtRHGNZVskKaXbFgdWZ8/view?usp=sharing
 
  Proposal PDF : https://drive.google.com/file/d/1nFmM5Ji9I0xlqyLrNX64mx6ywZEhRpeV/view?usp=sharing
 
