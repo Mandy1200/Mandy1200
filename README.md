@@ -1,222 +1,211 @@
 
-<h1 align="center">Mandeep Ray</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Focused-%2361dafb?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Exploring%20Backend-%23339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-%2337c959?style=flat&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-LLM%20Practitioner-blueviolet?style=flat&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/GenAI-Enthusiast-purple?style=flat&logo=openai&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=flat&logo=github&logoColor=white" />
-</p>
-
-
----
-  <a align="center" href="https://mandeepportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" style="height:40px;">
-  </a>
-
----
-  
-  
-## -> About Me
-Adept in Java and Python, while styling the digital canvas with HTML, CSS, Tailwind,Bootstrap and JavaScript. Databases like MySQL and MongoDB serve as the memory banks, while Figma and Power BI transform raw data into meaningful, visual stories. Skilled in shaping seamless digital experiences with Next.js and Tailwind CSS, blending performance with design to build fast, elegant, and scalable web applications.
-
-Recursively stacking Data Structures and Algorithms in Java within the heap memory of the mind, ever ready for collaborations that spark innovation and shape the future of tech.
-
-Comfortable navigating the Ubuntu terminal, scripting in Bash, and versioning with Git, with networking basics forming the threads beneath it all. At the same time, exploring the landscapes of machine learning—building pipelines, interpreting models with scikit-learn and SHAP, and shaping data into interactive apps with Streamlit and Plotly.
-
-Now venturing into the frontier of Generative AI—experimenting with LangChain, LangGraph, and RAG workflows—to architect intelligent, agent-based systems and multimodal applications. Learning to deploy models lightly and locally with Ollama, while keeping curiosity as the ultimate framework.
-
----
-
-## -> Currently focused on:
--  AI/ML & LLMs (Primary Focus)
--  Machine Learning Fundamentals
--  Generative AI Tools & Deployment
--  Backend Development (Secondary Focus)
--  Dev & Infra Tools
-
-
----
-
-<h2 align="center"> GitHub Stats & Insights</h2>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandy1200&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Mandy1200&theme=radical&hide_border=true&border_radius=12" width="48%" />
-</p>
-
----
-
-## -> Tech Stack
-
-| Domain          | Tools / Tech                                                  |
-|--------------   |---------------------------------------------------------------|
-|**Prog. Langs.**:| Java, Python                                                  |
-| **Frontend**    | HTML, CSS, Tailwind, JavaScript, ReactJs                        |
-| **Backend**     | Node.js, Express                                |
-| **Databases**   | MySQL, MongoDB                                                |
-| **Dev Tools**   | Figma, Power BI, Git                                          |
-| **Scripting**   | Ubuntu (Linux), Bash Scripting (Vim), Networking Basics       | 
-
-## -> Learning Tech Stack
-
-**Machine Learning & AI:**
-
- - ML Pipelines & Interpretability (scikit-learn, SHAP, feature engineering)
-
- - Data Apps with Streamlit, Plotly & SHAP for Real-time Wellbeing Insights
-
- - GenAI Tools (LangChain basics, RAG intro, LLM inference)
-
- - Model Deployment (Local LLMs, lightweight inference with Ollama)
-
----
-
-## -> Featured Projects
-
-###  SilentSpeak  
-> AI-driven assistive device using Morse code + haptics for non-verbal communication. Features multilingual output and emergency safety. Silent Speak enables users to convey messages through Morse code, offering a voice to those who may not have one in traditional communication settings.
-
-Website link : https://silent-speaks.netlify.app/
-
-Project Demo : https://drive.google.com/file/d/1wq6qSjO54d20EM_EO7LFaKoE7DCLq-8m/view?usp=sharing
-
-Hardware Prototype : https://drive.google.com/drive/folders/1xIo-xec45Yk229lBiehEgcKHHQYUqnIA?usp=sharing
-
-GithubRepo : https://github.com/Mandy1200/silentspeak2.0
-
-
-###  SmartBloom  
->SmartBloom doesn't rely on any existing intellectual property but rather builds on established principles in robotics, machine learning, and agriculture. The project uses open-source platforms like Arduino and Edge Impulse to develop a custom system that automates the cross-pollination process. By combining software and hardware components in a unique way, SmartBloom brings a fresh approach to agricultural automation
-
-Website link : https://www.smartbloom.in/
-
-Project Demo : https://drive.google.com/file/d/1V7WFyE7MrIIydIWNiFPmf09DVzyNkLeV/view?usp=sharing
-
-Hardware Prototype : https://drive.google.com/drive/folders/1KyKUQGGA0IdIUwgPIgUB0rZPZSh-o674?usp=sharing
-
-GithubRepo : https://github.com/Mandy1200/SmartBloom
-
-###  CodeZen  
-> Real-time collaborative coding platform with AI assistants, live previews, and team workflows. Built for project-based learning & hackathons.
-
-website link : https://codezens.vercel.app/
-
-Project Demo : https://drive.google.com/file/d/1yNA6DLjq4LI18qtK6LMFCmdzCEvoSwaN/view?usp=sharing 
-  > Demo for AI Resume Analyser is below
-
-### Neurohire
->A modular, NLP-powered AI application for resume screening, job matching, and visual feedback. Built using Streamlit, FAISS, and BERT embeddings with advanced resume parsing, scoring intelligence, and personalized recommendations.
-NeuroHire transforms the traditional hiring process with deep semantic insights, resume red-flag detection, and a visually guided recruitment dashboard. Recruit smarter, faster, and fairer — powered by real-time machine learning.
-
-Website link : https://airecruiterapp.streamlit.app/
-
-Project Demo : https://drive.google.com/file/d/1fUyFEpyaUV-0_jNrH8iwpqu49uVSiVjE/view?usp=sharing
-
- GithubRepo : https://github.com/Mandy1200/NeuroHire
-
-
-###  Claravita
->Lifestyle Wellness & Burnout Predictor is an AI-powered platform that translates lifestyle habits into meaningful insights on burnout, stress, and overall wellbeing.
-Using data such as sleep, activity, mood, and screen time, it delivers personalized health scores and actionable recommendations.
-The app features explainable AI, trend forecasting, and anonymous peer comparisons to help users understand and optimize their routines.
-Designed for clarity and empathy, it empowers individuals to take mindful control of their health — one habit at a time.
-
- Website link : https://wellnesspredictor.streamlit.app/
- 
- Demo link : https://drive.google.com/file/d/1EQ9oInLqA_UwrnioxuD4o7bATXx5-ZnG/view?usp=sharing
-
- GithubRepo : https://github.com/Mandy1200/Claravita
-
-
-###  Swift Relief
->Drone system to deliver medical supplies & communication devices in disaster-hit inaccessible areas. Uses auto real-time navigation using gps& obstacle avoidance. Integrated website for disaster management teams to coordinate deliveries
-
-> Life-Saving Response: Enables critical medical delivery within golden hours.
-> Accessible Anywhere: Operates in floods, landslides, earthquakes, and remote terrains.
-> Faster Disaster Relief: Cuts response time by 20–30% compared to ground logistics.
-> National Disaster Management Support: Scalable to NDMA & state agencies.
-
-
- Website link (Demo) : https://drive.google.com/file/d/1XpAXIpqPRXEEkD6LdGJiPgZuMMRt0PRZ/view?usp=sharing
- 
- Demo link 1 : https://drive.google.com/file/d/1xTaSlHYdTSghmXeoqn8IEBQdCkk1jbAn/view?usp=sharing
- 
- Demo link 2 : https://drive.google.com/file/d/1Oavy_uy2UIaMVtRHGNZVskKaXbFgdWZ8/view?usp=sharing
-
- Proposal PDF : https://drive.google.com/file/d/1nFmM5Ji9I0xlqyLrNX64mx6ywZEhRpeV/view?usp=sharing
-
-
----
-
-## Working on : 
-
----
-
-## -> Achievements
-
-  ### Silent Speak got selected for the AWS credit program from PITCH ‘n’ WIN in IIT BBSR . 
-
-  ### The SmartBloom aced in 
-       > IIIT D3 Fest BBSR
-       > Silicon SparkUp Summit
-       > Silicon Techtronics 2024
-       > Utkarsh 2024 by StartUp Odisha
-       > MSME IDEA Hackathon 4.0
-        
-  ### The CodeZen aced in
-       > IIIT BBSR Invento Expo Advaita 
-       > ELYSIUM 2025 KODLAMA (Ai Hackathon)  
-
----
-
-## -> Open to
-
-- Research internships in AI/ML, GenAI, and LLMs (Remote or In-Person)
-- Contributing to open-source tools in ML, FrontEnd 
-- Freelance Dev roles, especially in AI-driven web apps 
-- Collaborations on smart tech projects (e.g., IntelliDrive, Sleep Index)
-- Speaking / Workshops at tech clubs on topics like Local LLMs with Ollama, Smart Parking Systems, or AI + Edge 
-
----
-
-## -> Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mandeep-ray-b5535627b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Mandy1200" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:example5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://leetcode.com/mandeepray05/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode">
+<div align="center">
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    &nbsp;Hey, I'm Mandeep Ray!
+  </h1>
+  <p>
+    <strong>A Full-Stack Developer & AI Engineer crafting intelligent, scalable, and user-centric applications.</strong>
+  </p>
+  <p>I transform complex problems into elegant solutions, blending machine learning with robust backend and frontend technologies. Currently exploring the frontier of Generative AI with LangChain, RAG, and local LLMs.</p>
+
+  <p>
+    <a href="https://mandeepportfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio">
 </a>
-<a href="https://auth.geeksforgeeks.org/user/mandeepnwrx/" target="_blank">
-  <img src="https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat-square&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks">
-</a>
+    <a href="https://www.linkedin.com/in/mandeep-ray-b5535627b/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:mandycodekarega@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+</div>
 
+
+---
+
+## 🚀 What I Do
+
+-   🧠 **AI & Machine Learning:** Architecting and deploying end-to-end ML pipelines, building intelligent agents with **LangChain/LangGraph**, and running local inference with **Ollama**.
+-   💻 **Full-Stack Development:** Building performant, responsive web applications with the **Next.js/React** ecosystem and powering them with robust **Node.js/Express** backends.
+-   🛠️ **Data-Driven Apps & Viz:** Transforming raw data into interactive applications and insightful dashboards using **Streamlit**, **Plotly**, and **Power BI**.
+-   ☁️ **DevOps & Tooling:** Proficient in **Linux/Bash**, version control with **Git**, and containerization concepts, ensuring smooth development and deployment cycles.
+
+---
+
+## 🛠️ My Tech Stack
+
+<p align="center">
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  
+  <br>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
+  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></a>
+  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
+
+  <br>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
+  <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"></a>
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  
+  <br>
+  <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+  <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-00865D?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-6A0DAD?style=for-the-badge&logo=robotframework&logoColor=white"></a>
+  <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+
+  <br>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"></a>
 </p>
 
 ---
 
-## -> Fun Facts
+## ✨ Featured Projects
 
-- Built my own VS Code-style online code editor, just because I didn’t want to open VS Code 😅
-- Firebase and I are in a complicated relationship—still figuring it out ❤️‍🔥
-- I once used PCA to reduce my sleep schedule to "work and regret" ⏰🧠
-- I once ran Ubuntu inside a virtual machine… inside another VM—just to see if I could. Inception, but make it Linux 🧠🐧
-- I believe debugging at 2 AM builds more character than any motivational book 🌚
-- I contribute to open-source because nothing says love like a perfectly indented pull request 💚📂
-- Currently building my own local ChatGPT with Ollama 🤖
-- I prefer dark mode, Linux terminals, and cold brew ☕
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 NeuroHire - AI Resume Analyzer</h3>
+      <p><em>An NLP-powered application that screens resumes, matches candidates to jobs, and provides visual feedback using BERT embeddings and FAISS.</em></p>
+      <p>
+        <a href="https://airecruiterapp.streamlit.app/" target="_blank"><strong>Live Demo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://github.com/Mandy1200/NeuroHire" target="_blank"><strong>GitHub Repo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://drive.google.com/file/d/1fUyFEpyaUV-0_jNrH8iwpqu49uVSiVjE/view" target="_blank"><strong>Video</strong></a>
+      </p>
+      <p>
+        <code>Streamlit</code> <code>scikit-learn</code> <code>BERT</code> <code>FAISS</code> <code>Python</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧘 Claravita - Lifestyle Wellness Predictor</h3>
+      <p><em>An AI platform that predicts burnout and stress by analyzing lifestyle data. Features explainable AI (SHAP) and personalized health scores.</em></p>
+      <p>
+        <a href="https://wellnesspredictor.streamlit.app/" target="_blank"><strong>Live Demo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://github.com/Mandy1200/Claravita" target="_blank"><strong>GitHub Repo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://drive.google.com/file/d/1EQ9oInLqA_UwrnioxuD4o7bATXx5-ZnG/view" target="_blank"><strong>Video</strong></a>
+      </p>
+      <p>
+        <code>Streamlit</code> <code>Plotly</code> <code>SHAP</code> <code>scikit-learn</code> <code>Python</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚁 Swift Relief - Disaster Response Drone System</h3>
+      <p><em>An autonomous drone system for delivering medical supplies in disaster-hit areas, featuring real-time GPS navigation and obstacle avoidance.</em></p>
+      <p>
+        <a href="https://drive.google.com/file/d/1XpAXIpqPRXEEkD6LdGJiPgZuMMRt0PRZ/view" target="_blank"><strong>Website Demo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="#" target="_blank"><strong>GitHub Repo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://drive.google.com/file/d/1xTaSlHYdTSghmXeoqn8IEBQdCkk1jbAn/view" target="_blank"><strong>Hardware Demo</strong></a>
+      </p>
+      <p>
+        <code>Hardware</code> <code>IoT</code> <code>Python</code> <code>GPS</code> <code>React</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 CodeZen - Collaborative Coding Platform</h3>
+      <p><em>A real-time collaborative coding platform with AI assistants, live previews, and team workflows, built for project-based learning.</em></p>
+      <p>
+        <a href="https://codezens.vercel.app/" target="_blank"><strong>Website</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="#" target="_blank"><strong>GitHub Repo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+        <a href="https://drive.google.com/file/d/1yNA6DLjq4LI18qtK6LMFCmdzCEvoSwaN/view" target="_blank"><strong>Video Demo</strong></a>
+      </p>
+      <p>
+        <code>React</code> <code>WebSockets</code> <code>Node.js</code> <code>AI/LLM API</code> <code>Next.js</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐝 SmartBloom - Automated Pollination Robot</h3>
+      <p><em>A custom robotic system using Arduino and Edge Impulse to automate cross-pollination, bringing a fresh approach to agricultural automation.</em></p>
+      <p>
+        <a href="https://www.smartbloom.in/" target="_blank"><strong>Website</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://github.com/Mandy1200/SmartBloom" target="_blank"><strong>GitHub Repo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://drive.google.com/file/d/1V7WFyE7MrIIydIWNiFPmf09DVzyNkLeV/view" target="_blank"><strong>Video</strong></a>
+      </p>
+      <p>
+        <code>Robotics</code> <code>Edge Impulse</code> <code>Arduino</code> <code>C++</code> <code>Machine Learning</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗣️ SilentSpeak - Assistive Communication Device</h3>
+      <p><em>AI-driven device using Morse code and haptics for non-verbal communication, with multilingual output and emergency features.</em></p>
+      <p>
+        <a href="https://silent-speaks.netlify.app/" target="_blank"><strong>Website</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://github.com/Mandy1200/silentspeak2.0" target="_blank"><strong>GitHub Repo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://drive.google.com/file/d/1wq6qSjO54d20EM_EO7LFaKoE7DCLq-8m/view" target="_blank"><strong>Video</strong></a>
+      </p>
+      <p>
+        <code>AI/ML</code> <code>Hardware</code> <code>IoT</code> <code>Python</code> <code>React</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">Made with ❤️ by Mandeep Ray</p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandy1200&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Mandy1200&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<table width="100%">
+  <tr>
+    <td width="30%" valign="top">
+      <h3>🗣️ SilentSpeak</h3>
+    </td>
+    <td valign="top">
+      <strong>AWS Credit Program Selection</strong><br>
+      <em>Selected at the prestigious PITCH ‘n’ WIN event at IIT Bhubaneswar for innovation and potential.</em>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🐝 SmartBloom</h3>
+    </td>
+    <td valign="top">
+      <strong>Multi-Hackathon Champion (5x Winner)</strong><br>
+      <em>Dominating the innovation circuit with wins at: IIIT D3 Fest, Silicon SparkUp Summit, Silicon Techtronics 2024, Utkarsh 2024 (StartUp Odisha), and the MSME IDEA Hackathon 4.0.</em>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>💻 CodeZen</h3>
+    </td>
+    <td valign="top">
+      <strong>Dual Hackathon Winner</strong><br>
+      <em>Secured top positions for its collaborative features at the IIIT BBSR Invento Expo Advaita & ELYSIUM 2025 KODLAMA (AI Hackathon).</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always excited to connect with new people and explore new opportunities. I'm currently open to:
+-   **AI/ML Research Internships** (Remote or In-Person)
+-   **Open-Source Contributions** in ML, GenAI, or Frontend tools.
+-   **Freelance/Contract Roles** focused on AI-driven web applications.
+-   **Collaborating** on innovative tech projects.
+
+
+<div align="center">
+  <p>Made with ❤️ and a lot of ☕</p>
+</div>
