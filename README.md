@@ -8,7 +8,6 @@
     <strong>A Full-Stack Developer & AI Engineer crafting intelligent, scalable, and user-centric applications.</strong>
   </p>
   <p>I transform complex problems into elegant solutions, blending machine learning with robust backend and frontend technologies. Currently exploring the frontier of Generative AI with LangChain, RAG, and local LLMs.</p>
-
   <p>
     <a href="https://mandeepportfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio">
