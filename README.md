@@ -24,7 +24,7 @@
 
 ## 💼 Work Experience
 
-### **Full-Stack Developer — Kurators (2024–Present)**  
+### **Full-Stack Developer — Kurators (September–Present)**  
 **Tech:** React.js, PHP, Composer, jQuery, Automation  
 
 - Built production-ready modules for an artisan marketplace, including dashboards, workflow automation, and product management systems.  
