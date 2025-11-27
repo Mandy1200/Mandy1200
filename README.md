@@ -1,13 +1,6 @@
-Work Experience
-Full-Stack Developer — Kurators 2024–Present React.js, PHP, Composer, jQuery, Automation
-• Built production-ready modules for an artisan marketplace including dashboards, workflow automation, and
-product management systems.
-• Developed reusable UI components in React improving efficiency and user experience.
-• Automated backend processes using PHP + Composer, reducing manual workload by 40
-• Strengthened digital presence for artisans, enhancing product visibility and storytelling.
 
 
-Add this section in following
+
 
 
 
