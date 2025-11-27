@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <div align="center">
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -15,8 +9,8 @@
   <p>I transform complex problems into elegant solutions, blending machine learning with robust backend and frontend technologies. Currently exploring the frontier of Generative AI with LangChain, RAG, and local LLMs.</p>
   <p>
     <a href="https://mandeepportfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio">
-</a>
+      <img src="https://img.shields.io/badge/-Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio">
+    </a>
     <a href="https://www.linkedin.com/in/mandeep-ray-b5535627b/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -26,15 +20,26 @@
   </p>
 </div>
 
+---
+
+## 💼 Work Experience
+
+### **Full-Stack Developer — Kurators (2024–Present)**  
+**Tech:** React.js, PHP, Composer, jQuery, Automation  
+
+- Built production-ready modules for an artisan marketplace, including dashboards, workflow automation, and product management systems.  
+- Developed reusable UI components in React, improving development efficiency and user experience.  
+- Automated backend processes using PHP + Composer, reducing manual workload by **40%**.  
+- Strengthened digital presence for artisans, enhancing product visibility and storytelling.
 
 ---
 
 ## 🚀 What I Do
 
--   🧠 **AI & Machine Learning:** Architecting and deploying end-to-end ML pipelines, building intelligent agents with **LangChain/LangGraph**, and running local inference with **Ollama**.
--   💻 **Full-Stack Development:** Building performant, responsive web applications with the **Next.js/React** ecosystem and powering them with robust **Node.js/Express** backends.
--   🛠️ **Data-Driven Apps & Viz:** Transforming raw data into interactive applications and insightful dashboards using **Streamlit**, **Plotly**, and **Power BI**.
--   ☁️ **DevOps & Tooling:** Proficient in **Linux/Bash**, version control with **Git**, and containerization concepts, ensuring smooth development and deployment cycles.
+- 🧠 **AI & Machine Learning:** Architecting and deploying end-to-end ML pipelines, building intelligent agents with **LangChain/LangGraph**, and running local inference with **Ollama**.  
+- 💻 **Full-Stack Development:** Building performant, responsive web applications with the **Next.js/React** ecosystem and powering them with robust **Node.js/Express** backends.  
+- 🛠️ **Data-Driven Apps & Viz:** Transforming raw data into interactive applications and insightful dashboards using **Streamlit**, **Plotly**, and **Power BI**.  
+- ☁️ **DevOps & Tooling:** Proficient in **Linux/Bash**, version control with **Git**, and containerization concepts, ensuring smooth development and deployment cycles.
 
 ---
 
@@ -57,7 +62,7 @@
   <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"></a>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  
+
   <br>
   <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
   <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-00865D?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -89,6 +94,7 @@
         <code>Streamlit</code> <code>scikit-learn</code> <code>BERT</code> <code>FAISS</code> <code>Python</code>
       </p>
     </td>
+
     <td width="50%" valign="top">
       <h3>🧘 Claravita - Lifestyle Wellness Predictor</h3>
       <p><em>An AI platform that predicts burnout and stress by analyzing lifestyle data. Features explainable AI (SHAP) and personalized health scores.</em></p>
@@ -102,6 +108,7 @@
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>🚁 Swift Relief - Disaster Response Drone System</h3>
@@ -115,6 +122,7 @@
         <code>Hardware</code> <code>IoT</code> <code>Python</code> <code>GPS</code> <code>React</code>
       </p>
     </td>
+
     <td width="50%" valign="top">
       <h3>💻 CodeZen - Collaborative Coding Platform</h3>
       <p><em>A real-time collaborative coding platform with AI assistants, live previews, and team workflows, built for project-based learning.</em></p>
@@ -128,6 +136,7 @@
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>🐝 SmartBloom - Automated Pollination Robot</h3>
@@ -141,6 +150,7 @@
         <code>Robotics</code> <code>Edge Impulse</code> <code>Arduino</code> <code>C++</code> <code>Machine Learning</code>
       </p>
     </td>
+
     <td width="50%" valign="top">
       <h3>🗣️ SilentSpeak - Assistive Communication Device</h3>
       <p><em>AI-driven device using Morse code and haptics for non-verbal communication, with multilingual output and emergency features.</em></p>
@@ -179,6 +189,7 @@
       <em>Selected at the prestigious PITCH ‘n’ WIN event at IIT Bhubaneswar for innovation and potential.</em>
     </td>
   </tr>
+
   <tr>
     <td valign="top">
       <h3>🐝 SmartBloom</h3>
@@ -188,6 +199,7 @@
       <em>Dominating the innovation circuit with wins at: IIIT D3 Fest, Silicon SparkUp Summit, Silicon Techtronics 2024, Utkarsh 2024 (StartUp Odisha), and the MSME IDEA Hackathon 4.0.</em>
     </td>
   </tr>
+
   <tr>
     <td valign="top">
       <h3>💻 CodeZen</h3>
@@ -204,11 +216,11 @@
 ## 🤝 Let's Collaborate!
 
 I'm always excited to connect with new people and explore new opportunities. I'm currently open to:
--   **AI/ML Research Internships** (Remote or In-Person)
--   **Open-Source Contributions** in ML, GenAI, or Frontend tools.
--   **Freelance/Contract Roles** focused on AI-driven web applications.
--   **Collaborating** on innovative tech projects.
 
+- **AI/ML Research Internships** (Remote or In-Person)  
+- **Open-Source Contributions** in ML, GenAI, or Frontend tools  
+- **Freelance/Contract Roles** focused on AI-driven web applications  
+- **Collaborating** on innovative tech projects  
 
 <div align="center">
   <p>Made with ❤️ and a lot of ☕</p>
