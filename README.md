@@ -80,88 +80,76 @@
 
 ## ✨ Featured Projects
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="5">
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 NeuroHire - AI Resume Analyzer</h3>
-      <p><em>An NLP-powered application that screens resumes, matches candidates to jobs, and provides visual feedback using BERT embeddings and FAISS.</em></p>
+      <h3>🧠 NeuroHire – AI Resume Analyzer</h3>
+      <p><em>An NLP-powered application that screens resumes, predicts job fit, and provides visual feedback using BERT embeddings and FAISS similarity search.</em></p>
       <p>
-        <a href="https://airecruiterapp.streamlit.app/" target="_blank"><strong>Live Demo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="https://github.com/Mandy1200/NeuroHire" target="_blank"><strong>GitHub Repo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://airecruiterapp.streamlit.app/" target="_blank"><strong>Live Demo</strong></a> |
+        <a href="https://github.com/Mandy1200/NeuroHire" target="_blank"><strong>GitHub Repo</strong></a> |
         <a href="https://drive.google.com/file/d/1fUyFEpyaUV-0_jNrH8iwpqu49uVSiVjE/view" target="_blank"><strong>Video</strong></a>
       </p>
-      <p>
-        <code>Streamlit</code> <code>scikit-learn</code> <code>BERT</code> <code>FAISS</code> <code>Python</code>
-      </p>
+      <p><code>Streamlit</code> <code>BERT</code> <code>FAISS</code> <code>scikit-learn</code> <code>Python</code></p>
     </td>
 
     <td width="50%" valign="top">
-      <h3>🧘 Claravita - Lifestyle Wellness Predictor</h3>
-      <p><em>An AI platform that predicts burnout and stress by analyzing lifestyle data. Features explainable AI (SHAP) and personalized health scores.</em></p>
+      <h3>🧘 Claravita – Lifestyle Wellness Predictor</h3>
+      <p><em>An explainable-AI platform that analyzes lifestyle metrics to detect burnout and stress, integrating SHAP for model interpretability.</em></p>
       <p>
-        <a href="https://wellnesspredictor.streamlit.app/" target="_blank"><strong>Live Demo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="https://github.com/Mandy1200/Claravita" target="_blank"><strong>GitHub Repo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://wellnesspredictor.streamlit.app/" target="_blank"><strong>Live Demo</strong></a> |
+        <a href="https://github.com/Mandy1200/Claravita" target="_blank"><strong>GitHub Repo</strong></a> |
         <a href="https://drive.google.com/file/d/1EQ9oInLqA_UwrnioxuD4o7bATXx5-ZnG/view" target="_blank"><strong>Video</strong></a>
       </p>
-      <p>
-        <code>Streamlit</code> <code>Plotly</code> <code>SHAP</code> <code>scikit-learn</code> <code>Python</code>
-      </p>
+      <p><code>Streamlit</code> <code>Plotly</code> <code>SHAP</code> <code>scikit-learn</code> <code>Python</code></p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h3>🚁 Swift Relief - Disaster Response Drone System</h3>
-      <p><em>An autonomous drone system for delivering medical supplies in disaster-hit areas, featuring real-time GPS navigation and obstacle avoidance.</em></p>
+      <h3>🚁 Swift Relief – Disaster Response Drone System</h3>
+      <p><em>An autonomous drone solution for delivering critical supplies in disaster-hit zones, incorporating real-time GPS navigation and obstacle detection.</em></p>
       <p>
-        <a href="https://drive.google.com/file/d/1XpAXIpqPRXEEkD6LdGJiPgZuMMRt0PRZ/view" target="_blank"><strong>Website Demo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="#" target="_blank"><strong>GitHub Repo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://drive.google.com/file/d/1XpAXIpqPRXEEkD6LdGJiPgZuMMRt0PRZ/view" target="_blank"><strong>Website Demo</strong></a> |
+        <a href="#" target="_blank"><strong>GitHub Repo</strong></a> |
         <a href="https://drive.google.com/file/d/1xTaSlHYdTSghmXeoqn8IEBQdCkk1jbAn/view" target="_blank"><strong>Hardware Demo</strong></a>
       </p>
-      <p>
-        <code>Hardware</code> <code>IoT</code> <code>Python</code> <code>GPS</code> <code>React</code>
-      </p>
+      <p><code>Hardware</code> <code>IoT</code> <code>Python</code> <code>GPS</code> <code>React</code></p>
     </td>
 
     <td width="50%" valign="top">
-      <h3>💻 CodeZen - Collaborative Coding Platform</h3>
-      <p><em>A real-time collaborative coding platform with AI assistants, live previews, and team workflows, built for project-based learning.</em></p>
+      <h3>💻 CodeZen – Collaborative Coding Platform</h3>
+      <p><em>A real-time collaborative coding environment with AI assistants, live previews, and project-oriented team workflows.</em></p>
       <p>
-        <a href="https://codezens.vercel.app/" target="_blank"><strong>Website</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="#" target="_blank"><strong>GitHub Repo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+        <a href="https://codezens.vercel.app/" target="_blank"><strong>Website</strong></a> |
+        <a href="#" target="_blank"><strong>GitHub Repo</strong></a> |
         <a href="https://drive.google.com/file/d/1yNA6DLjq4LI18qtK6LMFCmdzCEvoSwaN/view" target="_blank"><strong>Video Demo</strong></a>
       </p>
-      <p>
-        <code>React</code> <code>WebSockets</code> <code>Node.js</code> <code>AI/LLM API</code> <code>Next.js</code>
-      </p>
+      <p><code>React</code> <code>Next.js</code> <code>WebSockets</code> <code>Node.js</code> <code>AI/LLM API</code></p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h3>🐝 SmartBloom - Automated Pollination Robot</h3>
-      <p><em>A custom robotic system using Arduino and Edge Impulse to automate cross-pollination, bringing a fresh approach to agricultural automation.</em></p>
+      <h3>🐝 SmartBloom – Automated Pollination Robot</h3>
+      <p><em>A robotics-powered agricultural system that uses Edge Impulse ML models and Arduino hardware to automate precise plant pollination.</em></p>
       <p>
-        <a href="https://www.smartbloom.in/" target="_blank"><strong>Website</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="https://github.com/Mandy1200/SmartBloom" target="_blank"><strong>GitHub Repo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://www.smartbloom.in/" target="_blank"><strong>Website</strong></a> |
+        <a href="https://github.com/Mandy1200/SmartBloom" target="_blank"><strong>GitHub Repo</strong></a> |
         <a href="https://drive.google.com/file/d/1V7WFyE7MrIIydIWNiFPmf09DVzyNkLeV/view" target="_blank"><strong>Video</strong></a>
       </p>
-      <p>
-        <code>Robotics</code> <code>Edge Impulse</code> <code>Arduino</code> <code>C++</code> <code>Machine Learning</code>
-      </p>
+      <p><code>Robotics</code> <code>Arduino</code> <code>Edge Impulse</code> <code>C++</code> <code>Machine Learning</code></p>
     </td>
 
     <td width="50%" valign="top">
-      <h3>🗣️ SilentSpeak - Assistive Communication Device</h3>
-      <p><em>AI-driven device using Morse code and haptics for non-verbal communication, with multilingual output and emergency features.</em></p>
+      <h3>🗣️ SilentSpeak – Assistive Communication Device</h3>
+      <p><em>An AI-driven wearable communication device that converts Morse inputs into multilingual speech using haptics and IoT modules.</em></p>
       <p>
-        <a href="https://silent-speaks.netlify.app/" target="_blank"><strong>Website</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="https://github.com/Mandy1200/silentspeak2.0" target="_blank"><strong>GitHub Repo</strong></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://silent-speaks.netlify.app/" target="_blank"><strong>Website</strong></a> |
+        <a href="https://github.com/Mandy1200/silentspeak2.0" target="_blank"><strong>GitHub Repo</strong></a> |
         <a href="https://drive.google.com/file/d/1wq6qSjO54d20EM_EO7LFaKoE7DCLq-8m/view" target="_blank"><strong>Video</strong></a>
       </p>
-      <p>
-        <code>AI/ML</code> <code>Hardware</code> <code>IoT</code> <code>Python</code> <code>React</code>
-      </p>
+      <p><code>AI/ML</code> <code>IoT</code> <code>Hardware</code> <code>Python</code> <code>React</code></p>
     </td>
   </tr>
 </table>
