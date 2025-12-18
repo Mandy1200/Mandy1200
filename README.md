@@ -117,7 +117,7 @@
       </p>
       <p><code>Hardware</code> <code>IoT</code> <code>Python</code> <code>GPS</code> <code>React</code></p>
     </td>
-
+   <tr>
     <td width="50%" valign="top">
       <h3>💻 CodeZen – Collaborative Coding Platform</h3>
       <p><em>A real-time collaborative coding environment with AI assistants, live previews, and project-oriented team workflows.</em></p>
@@ -128,6 +128,7 @@
       </p>
       <p><code>React</code> <code>Next.js</code> <code>WebSockets</code> <code>Node.js</code> <code>AI/LLM API</code></p>
     </td>
+    </tr>
   </tr>
 
   <tr>
@@ -141,7 +142,7 @@
       </p>
       <p><code>Robotics</code> <code>Arduino</code> <code>Edge Impulse</code> <code>C++</code> <code>Machine Learning</code></p>
     </td>
-
+   <tr>
     <td width="50%" valign="top">
       <h3>🗣️ SilentSpeak – Assistive Communication Device</h3>
       <p><em>An AI-driven wearable communication device that converts Morse inputs into multilingual speech using haptics and IoT modules.</em></p>
@@ -152,6 +153,7 @@
       </p>
       <p><code>AI/ML</code> <code>IoT</code> <code>Hardware</code> <code>Python</code> <code>React</code></p>
     </td>
+    </tr>
   </tr>
 </table>
 
