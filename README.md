@@ -157,14 +157,6 @@
   </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandy1200&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Mandy1200&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" width="48%" />
-</p>
 
 ---
 
