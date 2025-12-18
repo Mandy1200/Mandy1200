@@ -92,7 +92,7 @@
       </p>
       <p><code>Streamlit</code> <code>BERT</code> <code>FAISS</code> <code>scikit-learn</code> <code>Python</code></p>
     </td>
-
+  <tr>
     <td width="50%" valign="top">
       <h3>🧘 Claravita – Lifestyle Wellness Predictor</h3>
       <p><em>An explainable-AI platform that analyzes lifestyle metrics to detect burnout and stress, integrating SHAP for model interpretability.</em></p>
@@ -103,6 +103,7 @@
       </p>
       <p><code>Streamlit</code> <code>Plotly</code> <code>SHAP</code> <code>scikit-learn</code> <code>Python</code></p>
     </td>
+    </tr>
   </tr>
 
   <tr>
