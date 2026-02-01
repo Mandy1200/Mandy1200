@@ -24,7 +24,18 @@
 
 ## 💼 Work Experience
 
-### **Full-Stack Developer — Kurators (September–Present)**  
+### **Full-Stack Developer — Crawlli (Decemeber–Present)**  
+**Tech:** React.js, TypeScript, Tailwind CSS, Vite , Node.js, Supabase (PostgreSQL), LiveKit, WebRTC, Websockets, Zustand
+
+- Architected and deployed a production-grade voice AI platform using React + TypeScript, featuring real-time agent management, workflow automation, and comprehensive analytics dashboards.
+- Engineered 15+ reusable UI components with premium design aesthetics (gradient themes, micro-animations, glassmorphism), improving development velocity by 60% and delivering a best-in-class user experience.
+- Designed and implemented a scalable database architecture on Supabase with row-level security (RLS), supporting multi-tenant organizations, role-based access control (RBAC), and real-time data synchronization.
+- Built an intelligent workflow builder with visual step management, enabling non-technical users to create complex automation sequences (call → retry → SMS → CRM integration) without code.
+- Established enterprise-grade infrastructure with error monitoring (Sentry), authentication flows, and comprehensive documentation, reducing onboarding time from 2 weeks to 2 hours.
+
+---
+
+### **Full-Stack Developer — Kurators (September–November)**  
 **Tech:** React.js, PHP, Composer, jQuery, Automation  
 
 - Built production-ready modules for an artisan marketplace, including dashboards, workflow automation, and product management systems.  
