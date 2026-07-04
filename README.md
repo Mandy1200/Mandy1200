@@ -27,11 +27,11 @@
 ### **Full-Stack Developer — Crawlli (Decemeber–Present)**  
 **Tech:** React.js, TypeScript, Tailwind CSS, Vite , Node.js, Supabase (PostgreSQL), LiveKit, WebRTC, Websockets, Zustand
 
-- Architected and deployed a production-grade voice AI platform using React + TypeScript, featuring real-time agent management, workflow automation, and comprehensive analytics dashboards.
-- Engineered 15+ reusable UI components with premium design aesthetics (gradient themes, micro-animations, glassmorphism), improving development velocity by 60% and delivering a best-in-class user experience.
-- Designed and implemented a scalable database architecture on Supabase with row-level security (RLS), supporting multi-tenant organizations, role-based access control (RBAC), and real-time data synchronization.
-- Built an intelligent workflow builder with visual step management, enabling non-technical users to create complex automation sequences (call → retry → SMS → CRM integration) without code.
-- Established enterprise-grade infrastructure with error monitoring (Sentry), authentication flows, and comprehensive documentation, reducing onboarding time from 2 weeks to 2 hours.
+* Architected a production-grade multi-tenant AI voice platform using React, TypeScript, Supabase, and LiveKit, enabling real-time agent orchestration, workflow automation, and analytics.
+* Designed a scalable Supabase PostgreSQL backend with RLS, RBAC, authentication, and real-time synchronization for secure multi-tenant deployments.
+* Built a no-code workflow engine for AI-driven voice pipelines (Voice Call → AI Processing → Retry Logic → SMS → CRM Integration → Webhooks) , integrating LLMs, STT, TTS, SMS, CRM, and webhooks.
+* Reduced voice response latency by 75% (≈1000 ms → ≈250 ms) through streaming optimization and efficient LLM/STT/TTS pipeline design.
+* Developed secure REST APIs and reusable TypeScript components, improving maintainability, onboarding, and overall development velocity.
 
 ---
 
