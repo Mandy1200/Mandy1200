@@ -94,7 +94,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧠 luME – Secure Self-Healing Multi-Agent Cognitive Runtime</h3>
+<h3>🧠 luME – Secure Self-Healing Multi-Agent Cognitive Runtime(In Developing Phase)</h3>
 
 <p><em>A research-grade multi-agent runtime that safely executes AI-generated code using AST sandboxing, multi-LLM consensus, LangGraph orchestration, runtime anomaly detection, and reinforcement learning feedback.</em></p>
 
@@ -120,7 +120,7 @@
 <p><em>A production-grade Hybrid RAG assistant combining FAISS, BM25, cross-encoder reranking, stateful travel planning, Supabase cloud sync, and optimized semantic retrieval for outbound Indian travelers.</em></p>
 
 <p>
-<a href="YOUR_DEMO"><strong>Demo</strong></a> |
+<a href="https://github.com/Mandy1200/KanonesKa/tree/main/Docs/Pics"><strong>Demo</strong></a> |
 <a href="https://github.com/Mandy1200/KanonesKa"><strong>GitHub Repo</strong></a>
 </p>
 
