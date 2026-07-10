@@ -24,7 +24,7 @@
 
 ## 💼 Work Experience
 
-### **Full-Stack Developer — Crawlli (Decemeber–Present)**  
+### **AI Engineer Intern — Crawlli (Decemeber–March)**  
 **Tech:** React.js, TypeScript, Tailwind CSS, Vite , Node.js, Supabase (PostgreSQL), LiveKit, WebRTC, Websockets, Zustand
 
 * Architected a production-grade multi-tenant AI voice platform using React, TypeScript, Supabase, and LiveKit, enabling real-time agent orchestration, workflow automation, and analytics.
@@ -90,80 +90,184 @@
 ## ✨ Featured Projects
 
 <table width="100%" cellspacing="0" cellpadding="5">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 NeuroHire – AI Resume Analyzer</h3>
-      <p><em>An NLP-powered application that screens resumes, predicts job fit, and provides visual feedback using BERT embeddings and FAISS similarity search.</em></p>
-      <p>
-        <a href="https://airecruiterapp.streamlit.app/" target="_blank"><strong>Live Demo</strong></a> |
-        <a href="https://github.com/Mandy1200/NeuroHire" target="_blank"><strong>GitHub Repo</strong></a> |
-        <a href="https://drive.google.com/file/d/1fUyFEpyaUV-0_jNrH8iwpqu49uVSiVjE/view" target="_blank"><strong>Video</strong></a>
-      </p>
-      <p><code>Streamlit</code> <code>BERT</code> <code>FAISS</code> <code>scikit-learn</code> <code>Python</code></p>
-    </td>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧘 Claravita – Lifestyle Wellness Predictor</h3>
-      <p><em>An explainable-AI platform that analyzes lifestyle metrics to detect burnout and stress, integrating SHAP for model interpretability.</em></p>
-      <p>
-        <a href="https://wellnesspredictor.streamlit.app/" target="_blank"><strong>Live Demo</strong></a> |
-        <a href="https://github.com/Mandy1200/Claravita" target="_blank"><strong>GitHub Repo</strong></a> |
-        <a href="https://drive.google.com/file/d/1EQ9oInLqA_UwrnioxuD4o7bATXx5-ZnG/view" target="_blank"><strong>Video</strong></a>
-      </p>
-      <p><code>Streamlit</code> <code>Plotly</code> <code>SHAP</code> <code>scikit-learn</code> <code>Python</code></p>
-    </td>
-    </tr>
-  </tr>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚁 Swift Relief – Disaster Response Drone System</h3>
-      <p><em>An autonomous drone solution for delivering critical supplies in disaster-hit zones, incorporating real-time GPS navigation and obstacle detection.</em></p>
-      <p>
-        <a href="https://drive.google.com/file/d/1XpAXIpqPRXEEkD6LdGJiPgZuMMRt0PRZ/view" target="_blank"><strong>Website Demo</strong></a> |
-        <a href="#" target="_blank"><strong>GitHub Repo</strong></a> |
-        <a href="https://drive.google.com/file/d/1xTaSlHYdTSghmXeoqn8IEBQdCkk1jbAn/view" target="_blank"><strong>Hardware Demo</strong></a>
-      </p>
-      <p><code>Hardware</code> <code>IoT</code> <code>Python</code> <code>GPS</code> <code>React</code></p>
-    </td>
-   <tr>
-    <td width="50%" valign="top">
-      <h3>💻 CodeZen – Collaborative Coding Platform</h3>
-      <p><em>A real-time collaborative coding environment with AI assistants, live previews, and project-oriented team workflows.</em></p>
-      <p>
-        <a href="https://codezens.vercel.app/" target="_blank"><strong>Website</strong></a> |
-        <a href="#" target="_blank"><strong>GitHub Repo</strong></a> |
-        <a href="https://drive.google.com/file/d/1yNA6DLjq4LI18qtK6LMFCmdzCEvoSwaN/view" target="_blank"><strong>Video Demo</strong></a>
-      </p>
-      <p><code>React</code> <code>Next.js</code> <code>WebSockets</code> <code>Node.js</code> <code>AI/LLM API</code></p>
-    </td>
-    </tr>
-  </tr>
+<tr>
+<td width="50%" valign="top">
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐝 SmartBloom – Automated Pollination Robot</h3>
-      <p><em>A robotics-powered agricultural system that uses Edge Impulse ML models and Arduino hardware to automate precise plant pollination.</em></p>
-      <p>
-        <a href="https://www.smartbloom.in/" target="_blank"><strong>Website</strong></a> |
-        <a href="https://github.com/Mandy1200/SmartBloom" target="_blank"><strong>GitHub Repo</strong></a> |
-        <a href="https://drive.google.com/file/d/1V7WFyE7MrIIydIWNiFPmf09DVzyNkLeV/view" target="_blank"><strong>Video</strong></a>
-      </p>
-      <p><code>Robotics</code> <code>Arduino</code> <code>Edge Impulse</code> <code>C++</code> <code>Machine Learning</code></p>
-    </td>
-   <tr>
-    <td width="50%" valign="top">
-      <h3>🗣️ SilentSpeak – Assistive Communication Device</h3>
-      <p><em>An AI-driven wearable communication device that converts Morse inputs into multilingual speech using haptics and IoT modules.</em></p>
-      <p>
-        <a href="https://silent-speaks.netlify.app/" target="_blank"><strong>Website</strong></a> |
-        <a href="https://github.com/Mandy1200/silentspeak2.0" target="_blank"><strong>GitHub Repo</strong></a> |
-        <a href="https://drive.google.com/file/d/1wq6qSjO54d20EM_EO7LFaKoE7DCLq-8m/view" target="_blank"><strong>Video</strong></a>
-      </p>
-      <p><code>AI/ML</code> <code>IoT</code> <code>Hardware</code> <code>Python</code> <code>React</code></p>
-    </td>
-    </tr>
-  </tr>
+<h3>🧠 luME – Secure Self-Healing Multi-Agent Cognitive Runtime</h3>
+
+<p><em>A research-grade multi-agent runtime that safely executes AI-generated code using AST sandboxing, multi-LLM consensus, LangGraph orchestration, runtime anomaly detection, and reinforcement learning feedback.</em></p>
+
+<p>
+<a href="YOUR_DEMO"><strong>Demo</strong></a> |
+<a href="https://github.com/Mandy1200/luME"><strong>GitHub Repo</strong></a>
+</p>
+
+<p>
+<code>Python</code>
+<code>LangGraph</code>
+<code>PyTorch</code>
+<code>Groq</code>
+<code>SQLite</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>✈️ KanonesKa – Hybrid RAG Travel Intelligence Platform</h3>
+
+<p><em>A production-grade Hybrid RAG assistant combining FAISS, BM25, cross-encoder reranking, stateful travel planning, Supabase cloud sync, and optimized semantic retrieval for outbound Indian travelers.</em></p>
+
+<p>
+<a href="YOUR_DEMO"><strong>Demo</strong></a> |
+<a href="https://github.com/Mandy1200/KanonesKa"><strong>GitHub Repo</strong></a>
+</p>
+
+<p>
+<code>FastAPI</code>
+<code>PyTorch</code>
+<code>FAISS</code>
+<code>Supabase</code>
+<code>LangGraph</code>
+<code>RAGs</code>
+<code>Transformers</code>  
+</p>
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🐝 SmartBloom – Automated Pollination Robot</h3>
+
+<p><em>A robotics-powered agricultural platform using Edge Impulse machine learning models and embedded hardware for precision pollination.</em></p>
+
+<p>
+<a href="https://www.smartbloom.in/"><strong>Website</strong></a> |
+<a href="https://github.com/Mandy1200/SmartBloom"><strong>GitHub Repo</strong></a>
+</p>
+
+<p>
+<code>Arduino</code>
+<code>Edge Impulse</code>
+<code>C++</code>
+<code>IoT</code>
+<code>Machine Learning</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🗣️ SilentSpeak – AI Assistive Communication Device</h3>
+
+<p><em>A wearable AI communication system translating Morse inputs into multilingual speech using embedded hardware and machine learning.</em></p>
+
+<p>
+<a href="https://silent-speaks.netlify.app/"><strong>Website</strong></a> |
+<a href="https://github.com/Mandy1200/silentspeak2.0"><strong>GitHub Repo</strong></a>
+</p>
+
+<p>
+<code>Python</code>
+<code>IoT</code>
+<code>Machine Learning</code>
+<code>React</code>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🚁 Swift Relief – Disaster Response Drone System</h3>
+
+<p><em>An autonomous disaster-response platform integrating GPS navigation, obstacle detection, and intelligent routing for emergency supply delivery.</em></p>
+
+<p>
+<a href="https://drive.google.com/file/d/1XpAXIpqPRXEEkD6LdGJiPgZuMMRt0PRZ/view"><strong>Demo</strong></a>
+</p>
+
+<p>
+<code>IoT</code>
+<code>Python</code>
+<code>GPS</code>
+<code>React</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>💻 CodeZen – Collaborative Coding Platform</h3>
+
+<p><em>A collaborative development environment featuring live collaboration, AI-assisted coding, project workspaces, and real-time synchronization.</em></p>
+
+<p>
+<a href="https://codezens.vercel.app/"><strong>Website</strong></a>
+</p>
+
+<p>
+<code>Next.js</code>
+<code>React</code>
+<code>Node.js</code>
+<code>WebSockets</code>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🧘 Claravita – Lifestyle Wellness Predictor</h3>
+
+<p><em>An explainable AI platform for burnout prediction using SHAP-based model interpretability and interactive visual analytics.</em></p>
+
+<p>
+<a href="https://wellnesspredictor.streamlit.app/"><strong>Live Demo</strong></a> |
+<a href="https://github.com/Mandy1200/Claravita"><strong>GitHub Repo</strong></a>
+</p>
+
+<p>
+<code>Streamlit</code>
+<code>SHAP</code>
+<code>Plotly</code>
+<code>scikit-learn</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧠 NeuroHire – AI Resume Analyzer</h3>
+
+<p><em>An NLP-powered resume screening platform using BERT embeddings and FAISS similarity search for candidate matching and ranking.</em></p>
+
+<p>
+<a href="https://airecruiterapp.streamlit.app/"><strong>Live Demo</strong></a> |
+<a href="https://github.com/Mandy1200/NeuroHire"><strong>GitHub Repo</strong></a>
+</p>
+
+<p>
+<code>BERT</code>
+<code>FAISS</code>
+<code>Streamlit</code>
+<code>Python</code>
+</p>
+
+</td>
+
+</tr>
+
 </table>
 
 
