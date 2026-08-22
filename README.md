@@ -57,33 +57,45 @@
 ## 🛠️ My Tech Stack
 
 <p align="center">
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-  
+
   <br>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
   <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></a>
-  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
 
   <br>
-  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+  <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"></a>
 
   <br>
-  <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
-  <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-00865D?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-6A0DAD?style=for-the-badge&logo=robotframework&logoColor=white"></a>
-  <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+  <a href="#"><img alt="LLMs" src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"></a>
+  <a href="#"><img alt="RAG" src="https://img.shields.io/badge/RAG-6B46C1?style=for-the-badge&logoColor=white"></a>
+  <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"></a>
+  <a href="#"><img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=graph&logoColor=white"></a>
+  <a href="#"><img alt="LangSmith" src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=langchain&logoColor=white"></a>
 
   <br>
+  <a href="#"><img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=robot&logoColor=white"></a>
+  <a href="#"><img alt="MCP" src="https://img.shields.io/badge/MCP-5B21B6?style=for-the-badge&logoColor=white"></a>
+  <a href="#"><img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
+  <a href="#"><img alt="NLP" src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logoColor=white"></a>
+
+  <br>
+  <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"></a>
+  <a href="#"><img alt="Google Gemini" src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
+  <a href="#"><img alt="LiveKit" src="https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logo=livekit&logoColor=white"></a>
+  <a href="#"><img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"></a>
+
+  <br>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"></a>
+  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 </p>
+
 
 ---
 
